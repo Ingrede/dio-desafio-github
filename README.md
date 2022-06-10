@@ -6,8 +6,14 @@ Repositório criado para o desafio de projeto Git/GitHub.
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Typora](https://typora.io/)
+
 [Introdução ao Git e ao Github](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/impulso-javascript-evolution&tab=undefined&moduleId=undefined)
 
+[Portugol Versão Web](https://portugol-webstudio.cubos.io/ide);
+[Portugol Download](http://lite.acad.univali.br/portugol/) 
+
+[Flowgorithm - Criando Fluxograma](http://www.flowgorithm.org/)
 ### Receitas
 #### _Strogonoff de Frango_ 🐔
    **INGREDIENTES**
