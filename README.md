@@ -1,9 +1,12 @@
 # Desafio de Projeto sobre Git/GitHub DIO
-Repositório criado para o desafio de projeto Git/GitHub, bootcamp 
+Repositório criado para o desafio de projeto Git/GitHub.
+ 
+ Apresentando os primeiros códigos e a criação de uma receita.
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Introdução ao Git e ao Github](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/impulso-javascript-evolution&tab=undefined&moduleId=undefined)
 
 ### Receitas
 #### _Strogonoff de Frango_ 🐔
